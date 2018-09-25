@@ -19,9 +19,5 @@ npm start
 [README.md](./reciclatge-doc/README.md)
 
 
-### Public URL
-
-[Reciclem](https://reciclatge-app.surge.sh/)
-
 ## Author:
 - Carlota Vicens (carlotavicens)
